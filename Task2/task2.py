@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     ###############################################################################
 
-    browser = webdriver.Chrome(r'C:\Users\01\.nuget\packages\Selenium.Chrome.WebDriver\2.33.0\driver\chromedriver.exe')
+    browser = webdriver.Chrome()
     browser.implicitly_wait(10)
 
     browser.get(website)

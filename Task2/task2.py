@@ -59,7 +59,12 @@ if __name__ == "__main__":
 
     browser = webdriver.Chrome()
     browser.implicitly_wait(10)
-
+    
+    website = sys.argv[1]
+    
+    if "http://" not in website:
+        website = "http://" + website
+        
     browser.get(website)
 
     logging.info("Start to download...")

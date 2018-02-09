@@ -26,5 +26,5 @@ You can look at logfile to see more details after script running.
 #### Contacts
 Feel free to ask about any help 
 
-olehmalkov@gmail.com
+olehmalkov _ gmail.com
 

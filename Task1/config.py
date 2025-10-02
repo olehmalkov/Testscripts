@@ -1,1 +1,1 @@
-credentials = {'login': "olehmalkov@yandex.ua", 'password': "LfDzIcs5"}
+credentials = {'login': "", 'password': ""}
